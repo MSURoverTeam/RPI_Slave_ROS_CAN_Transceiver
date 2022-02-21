@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="CAN_ROS_Transceiver" type="ROS_CAN_Transceiver_Threading.py" name="CAN_ROS_Transceiver" output="log" respawn="false"/>
+</launch>
