@@ -1,6 +1,8 @@
 #! /usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+#Software designed by Andrey Smirnov, Moscow State Unversity, 2022
+
 import threading
 
 import os
